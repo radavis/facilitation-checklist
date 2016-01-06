@@ -12,7 +12,7 @@
 
 ***
 
-- [ ] Plug M-Audio Fast Track Pro USB cable into your MacBook ([drivers](http://avid.force.com/pkb/articles/en_US/Download/Fast-Track-Pro-Drivers)).
+- [ ] Plug M-Audio Fast Track Pro USB cable into your MacBook. Drivers are at [http://avid.force.com](http://avid.force.com/pkb/articles/en_US/Download/Fast-Track-Pro-Drivers).
 - [ ] Open QuickTime Player and start a new screen recording (CTRL+CMD+N).
 
 ***
@@ -36,7 +36,7 @@
 - [ ] Save your screencast to the Desktop.
 - [ ] Start the conversion process using `vimeo_sync`:
 
-If you don't have this tool already, follow the instructions, [here](https://github.com/launchacademy/vimeo_sync).
+If you don't have this tool already, `cd ~ && git clone https://github.com/launchacademy/vimeo_sync`.
 
 ```no-highlight
 $ cd ~/Desktop
@@ -53,7 +53,7 @@ $ cd ~/Desktop
 $ python ~/vimeo_sync/vimeo_sync.py Video.mp4 "Video Title"
 ```
 
-### Troubleshooting
+## Troubleshooting
 
 - [ ] Verify that all devices are powered on.
 - [ ] Unplug and reinsert the M-Audio USB cable.
