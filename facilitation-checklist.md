@@ -1,12 +1,12 @@
 ## Pre-facilitation Checklist
 
-<img src="https://i.imgur.com/ymFNZU2.png" width="250">
+<img src="https://i.imgur.com/ymFNZU2.png" width="150">
 
 - [ ] Put charged AA batteries into Sony UTX-B2 Microphone Transmitter.
 
 ***
 
-<img src="https://i.imgur.com/VyD6GXK.png" width="250">
+<img src="https://i.imgur.com/VyD6GXK.png" width="150">
 
 - [ ] Put charged AA batteries into Sony URX-P2 Microphone Receiver.
 
@@ -17,13 +17,13 @@
 
 ***
 
-<img src="https://i.imgur.com/x2fa4K6.png" width="250">
+<img src="https://i.imgur.com/x2fa4K6.png" width="300">
 
 - [ ] Click the triangle and select "M-Audio Fast Track Pro USB".
 
 ***
 
-<img src="https://i.imgur.com/J52oEvU.png" width="500">
+<img src="https://i.imgur.com/J52oEvU.png" width="400">
 
 - [ ] Check your audio levels. Speak at the volume you will when presenting: "Testing Testing 1 2 3." Adjust audio so that it is loud enough, but not clipping.
 
